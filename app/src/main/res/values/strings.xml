@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BirdieGame</string>
+    <string name="game_start">Start Game</string>
+    <string name="game_exit">Exit</string>
+    <string name="game_name">Bird Game</string>
+
+</resources>
